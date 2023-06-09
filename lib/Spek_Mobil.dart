@@ -9,6 +9,7 @@ class CarItem {
   final String fuel;
   final String brand;
 
+  
   CarItem(
       {@required this.title,
         @required this.price,
