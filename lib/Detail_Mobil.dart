@@ -6,7 +6,7 @@ void _showSimpleDialog(context) {
     context: context,
     builder: (context) {
       return SimpleDialog(
-        children: <Widget>[
+        children: <Widget>[ 
           Padding(
             padding: EdgeInsets.only(left: 10.0, right: 10.0),
             child: Row(
@@ -31,6 +31,7 @@ void _showSimpleDialog(context) {
     },
   );
 }
+
 
 class DetailMobil extends StatelessWidget {
   final String title;
