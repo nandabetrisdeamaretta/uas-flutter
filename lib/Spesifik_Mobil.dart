@@ -7,6 +7,7 @@ class SpesifikMobil extends StatelessWidget {
 
   SpesifikMobil({this.price, this.name, this.name2});
 
+  
   @override
   Widget build(BuildContext context) {
     return Container(
