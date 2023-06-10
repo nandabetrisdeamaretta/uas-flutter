@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 
+
 class CarItem {
   final String title;
   final double price;
