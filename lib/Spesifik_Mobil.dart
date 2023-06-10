@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class SpesifikMobil extends StatelessWidget {
   final double price;
   final String name;
