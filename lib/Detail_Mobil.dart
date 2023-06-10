@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'Spesifik_Mobil.dart';
 
 
+
 void _showSimpleDialog(context) {
   showDialog(
     context: context,
